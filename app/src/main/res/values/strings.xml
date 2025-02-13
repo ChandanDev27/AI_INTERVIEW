@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AI INTERVIEW</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="welcome_message" translatable="false">This app comes with several options.You can get confidence and Gain lot\'s Knowledges. Have fun using the app!</string>
+    <string name="loginwelcome" translatable="false">Welcome back! Glad to see you again on AI INTERVIEW</string>
+    <string name="loginquotes" translatable="false">Login to Fell Confidence</string>
+</resources>

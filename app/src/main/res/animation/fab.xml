@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.floatingactionbutton.FloatingActionButton
+    android:id="@+id/startFab"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginBottom="50dp"
+    android:src="@drawable/ic_play"  <!-- Icon for the button -->
+    android:contentDescription="Start Button"
+    android:tint="#FFFFFF"
+    android:backgroundTint="#4CAF50"  <!-- Green color -->
+    android:onClick="onStartClick"/>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dashboard"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:gravity="center" />
+
+    <Button
+        android:id="@+id/view_candidates"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Candidates"
+        android:padding="10dp"
+        android:marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/view_reports"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Reports"
+        android:padding="10dp"
+        android:marginTop="10dp"/>
+</LinearLayout>
